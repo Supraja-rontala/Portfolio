@@ -41,6 +41,15 @@ function Projects() {
               description="Developed a voice-enabled chatbot to assist visually impaired users with daily tasks like playing music, telling time, and delivering news. Implemented speech recognition, text-to-speech, and API integrations for Wikipedia, weather, and news updates to ensure hands-free accessibility."
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={require("../../Assets/streaming.png")}
+              isBlog={false}
+              title="Streaming Data Analytics with Automated ETL Pipeline"
+              description="Built an end-to-end analytics solution inspired by a streaming platform. Designed dimensional warehouse schema, developed Python-based ETL pipelines for data transformation, and executed KPI analysis using SQL. Integrated insights into Power BI dashboards to monitor engagement, churn, and genre performance."
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
