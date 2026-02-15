@@ -1,24 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  DiJavascript1,
-  DiReact,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
-} from "react-icons/di";
-import {
-  SiMysql,
-  SiHtml5,
-  SiCss3,
-  SiNumpy,
-  SiPandas,
-  SiTableau,
-  SiPowerbi,
-  SiMicrosoftexcel,
-  SiAmazonaws,
-} from "react-icons/si";
+import { DiPython } from "react-icons/di";
+import { SiMysql, SiNumpy, SiPandas, SiTableau, SiPowerbi, SiMicrosoftexcel, SiAmazonaws } from "react-icons/si";
 import { FaUsers, FaComments, FaLightbulb, FaCalculator } from "react-icons/fa";
 
 function Techstack() {
