@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbad50e0.css",
+    "main.js": "/static/js/main.ff6cb7f2.js",
+    "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
+    "static/media/streaming.png": "/static/media/streaming.a6bd04795937035a7d20.png",
+    "static/media/chat.png": "/static/media/chat.d1fa63b58f86339e56f1.png",
+    "static/media/object.png": "/static/media/object.a9c97687d3b1f1c43eaf.png",
+    "static/media/age.png.jpeg": "/static/media/age.png.4b616c7bb743b6830f95.jpeg",
+    "static/media/supraja Resume.pdf": "/static/media/supraja Resume.7eb72f0ea07587b163fc.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.bbad50e0.css.map": "/static/css/main.bbad50e0.css.map",
+    "main.ff6cb7f2.js.map": "/static/js/main.ff6cb7f2.js.map",
+    "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbad50e0.css",
+    "static/js/main.ff6cb7f2.js"
+  ]
+}
