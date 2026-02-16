@@ -46,7 +46,7 @@ with hands-on experience in AI/ML model development. Passionate about solving re
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/suprajarontala"
+                  href="www.linkedin.com/in/supraja-rontala-a949812a2"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -56,7 +56,7 @@ with hands-on experience in AI/ML model development. Passionate about solving re
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:suprajarontala20@gmail.com"
+                  href="mailto:suprajarontala615@gmail.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="icon-colour  home-social-icons"
