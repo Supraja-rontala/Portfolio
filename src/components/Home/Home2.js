@@ -46,7 +46,7 @@ with hands-on experience in AI/ML model development. Passionate about solving re
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/supraja-rontala-9a1b4b1b3/"
+                  href="https://www.linkedin.com/in/supraja-rontala-a949812a2"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
