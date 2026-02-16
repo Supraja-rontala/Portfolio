@@ -57,10 +57,10 @@ function Contact() {
           </button>
         </form>
         <div style={{ display: "flex", justifyContent: "center", gap: 24, marginTop: 24 }}>
-          <a href="mailto:suprajarontala20@gmail.com" style={{ color: "#6c2eb7", fontSize: 28 }} title="Email">
+          <a href="mailto:suprajarontala615@gmail.com" style={{ color: "#6c2eb7", fontSize: 28 }} title="Email">
             <MdEmail />
           </a>
-          <a href="https://www.linkedin.com/in/suprajarontala" style={{ color: "#6c2eb7", fontSize: 28 }} target="_blank" rel="noopener noreferrer" title="LinkedIn">
+          <a href="www.linkedin.com/in/supraja-rontala-a949812a2" style={{ color: "#6c2eb7", fontSize: 28 }} target="_blank" rel="noopener noreferrer" title="LinkedIn">
             <FaLinkedinIn />
           </a>
         </div>
