@@ -60,7 +60,7 @@ function Contact() {
           <a href="mailto:suprajarontala615@gmail.com" style={{ color: "#6c2eb7", fontSize: 28 }} title="Email">
             <MdEmail />
           </a>
-          <a href="https://www.linkedin.com/in/supraja-rontala-9a1b4b1b3/" style={{ color: "#6c2eb7", fontSize: 28 }} target="_blank" rel="noopener noreferrer" title="LinkedIn">
+          <a href="https://www.linkedin.com/in/supraja-rontala-a949812a2" style={{ color: "#6c2eb7", fontSize: 28 }} target="_blank" rel="noopener noreferrer" title="LinkedIn">
             <FaLinkedinIn />
           </a>
         </div>
